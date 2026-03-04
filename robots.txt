@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationdayton.com/sitemap.xml
